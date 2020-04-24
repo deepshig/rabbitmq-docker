@@ -11,8 +11,10 @@ We have used docker to run the program. Docker Compose has been used to spawn th
 
 ## Dependencies
 
-* Python 3.7
-* Docker
+* [Python 3.7](https://www.python.org/downloads/release/python-370/)
+* [Docker](https://www.docker.com/)
+* [RabbitMQ 3.8.3-rc.1](https://github.com/rabbitmq/rabbitmq-server/releases/tag/v3.8.3-rc.1)
+* [Pika 1.1.0](https://github.com/pika/pika)
 
 ## Run the program
 
